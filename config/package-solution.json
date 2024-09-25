@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "palette-pal-se-client-side-solution",
+    "id": "749d14eb-8951-4488-8e81-8771a58b9b92",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/palette-pal-se.sppkg"
+  }
+}

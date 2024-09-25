@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "palette-pal-se",
+    "libraryId": "749d14eb-8951-4488-8e81-8771a58b9b92",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

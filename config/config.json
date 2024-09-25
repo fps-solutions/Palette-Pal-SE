@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "palette-pal-se-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/palettePalSeWebpart/PalettePalSeWebpartWebPart.js",
+          "manifest": "./src/webparts/palettePalSeWebpart/PalettePalSeWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PalettePalSeWebpartWebPartStrings": "lib/webparts/palettePalSeWebpart/loc/{locale}.js"
+  }
+}
